@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'MaruBuri';
+    src: url(./MARUBuriBetaR.woff) format("woff"), url(./MARUBuriBetaR.woff2) format("woff2"), url(./MARUBuriBetaR.otf) format("embedded-opentype");
+}
+@font-face {
+    font-family: 'NanumSquareBold';
+    src: url(.NanumSquareB.eot);
+    src: url(.NanumSquareB.eot?#iefix) format("embedded-opentype"), url(./NanumSquareB.woff) format("woff"), url(./NanumSquareB.ttf) format("truetype");
+}
+@font-face {
+    font-family: 'NanumSquare';
+    src: url(./NanumSquareR.eot);
+    src: url(./NanumSquareR.eot?#iefix) format("embedded-opentype"), url(./NanumSquareR.woff) format("woff"), url(./NanumSquareR.ttf) format("truetype");
+}
+@font-face {
+    font-family: 'NanumGothic';
+    src: url(./NanumGothic.eot);
+    src: url(./NanumGothic.eot?#iefix) format("embedded-opentype"), url(./NanumGothic.woff) format("woff"), url(./NanumGothic.ttf) format("truetype");
+}
